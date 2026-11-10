@@ -1,0 +1,21 @@
+{
+  "roots": [
+    "lab1_training_diary"
+  ],
+  "packages": [
+    {
+      "name": "lab1_training_diary",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": [
+        "lints"
+      ]
+    },
+    {
+      "name": "lints",
+      "version": "6.1.0",
+      "dependencies": []
+    }
+  ],
+  "configVersion": 1
+}

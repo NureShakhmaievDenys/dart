@@ -1,0 +1,3 @@
+$ dart analyze
+Analyzing lab1_training_diary...
+No issues found!

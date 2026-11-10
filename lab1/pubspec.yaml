@@ -1,0 +1,10 @@
+name: lab1_training_diary
+description: Laboratory work 1 - a console training diary written in Dart.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ^3.13.0
+
+dev_dependencies:
+  lints: ^6.0.0

@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "lints",
+      "rootUri": "file:///C:/Users/avema/AppData/Local/Pub/Cache/hosted/pub.dev/lints-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "lab1_training_diary",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.13"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.13.2",
+  "pubCache": "file:///C:/Users/avema/AppData/Local/Pub/Cache"
+}
