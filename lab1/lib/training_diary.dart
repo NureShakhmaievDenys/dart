@@ -1,4 +1,3 @@
-
 typedef Training = ({
   DateTime date,
   String activity,
@@ -125,6 +124,7 @@ Map<String, List<Training>> groupByActivityKind(Iterable<Training> items) {
     return groups;
   });
 }
+
 String maskActivityDetail(String activity) {
   return activity.replaceAllMapped(_activityPattern, (match) {
     final activityMatch = match as RegExpMatch;
